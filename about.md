@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Hi, I'm Trenton.
+title: Hi, I'm Pravin.
 permalink: /about/
 ---
 
 <!--- ![Trenton B. Bricken](../images/TrentonBricken.jpg){:style="width: 200px; float: right; padding-left: 20px"}-->
 
+<!--
 I'm a Member of Technical Staff on the Mechanistic Interpretability team at [Anthropic](https://www.anthropic.com/). A nice overview of our mission can be found [here](https://transformer-circuits.pub/2023/interpretability-dreams/index.html). I'm currently working on [using dictionary learning to disentangle superposition in artificial neural networks](https://transformer-circuits.pub/2023/monosemantic-features/index.html).
 
 Information about me:
@@ -150,3 +151,4 @@ Website: <https://marks.hms.harvard.edu/sars-cov-2>
 ### Other Locations on the Interwebs
 
 I am pretty active on [Twitter](https://twitter.com/TrentonBricken) where you can DM me if you're trying to get in touch. I sometimes upload my film photography to [Instagram](https://www.instagram.com/blitz_analog) and to my [portfolio](https://blitz-analog.github.io/).
+-->
